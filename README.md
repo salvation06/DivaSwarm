@@ -9,7 +9,7 @@ DivaSwarm is a state-first multi-agent orchestration system designed for high-pe
 
 Jump-start any task with built-in macro-sequences:
 
-- `setup:` → **Onboarding**. Auto-initializes `task.md` + objective interview + local skill deployment.
+- `setup:` → **Onboarding**. Auto-initializes `THE_PULSE.md` + objective interview + local skill deployment.
 - `plan:` → **Architect Mode**. Generates `implementation_plan.md` without editing code.
 - `ralph:` → **Deep Build**. Architect + Executor sync for complex implementations.
 - `ulw:` → **Ultra-Low-Work**. Reflexive, minimal-chat fixes.

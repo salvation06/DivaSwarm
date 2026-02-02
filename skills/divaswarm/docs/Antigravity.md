@@ -9,7 +9,7 @@ DivaSwarm automatically maps its internal state updates to Antigravity's `task_b
 
 ### 2. Artifact Management
 DivaSwarm uses Antigravity's artifact system for:
-- `task.md`: The primary memory source.
+- `THE_PULSE.md`: The primary memory source.
 - `implementation_plan.md`: The technical blueprint.
 - `walkthrough.md`: The final proof-of-work.
 

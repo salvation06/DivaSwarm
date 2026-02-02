@@ -4,7 +4,7 @@
 DivaSwarm minimizes "Context Amnesia" and maximizes "Token Runway" using **State-Watchdog** failsafes and **JIT Registry** loading.
 
 ### 1. State-Watchdog Protocol
-- **The Heartbeat**: If you go **10 turns** without updating `task.md`, the orchestrator will refuse to proceed until a pulse is performed.
+- **The Heartbeat**: If you go **10 turns** without updating `THE_PULSE.md`, the orchestrator will refuse to proceed until a pulse is performed.
 - **Why**: Keeps the "North Star" goal visible and prevents hallucinated requirements over long sessions.
 
 ### 2. JIT (Just-In-Time) Agent Loading

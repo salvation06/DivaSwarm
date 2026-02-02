@@ -7,9 +7,9 @@ DivaSwarm v5.1.0 is a state-first, JIT-loaded multi-agent orchestration system.
 To prevent "System Collapse," v5.1.0 introduces a **Heartbeat Interrupt**.
 
 ### The Watchdog Intercept
-1. **Turn Counter**: The system tracks turns since the last `task.md` update.
+1. **Turn Counter**: The system tracks turns since the last `THE_PULSE.md` update.
 2. **Hard-Limit**: At **10 turns**, the Orchestrator's internal reasoning is restricted. It *cannot* execute new commands until it has summarized progress into the `# STATE` block.
-3. **Analytic Verification**: L3 agents (The Ralph/Architect) are structurally required to read the `task.md` *every turn* to ensure alignment.
+3. **Analytic Verification**: L3 agents (The Ralph/Architect) are structurally required to read the `THE_PULSE.md` *every turn* to ensure alignment.
 
 ```mermaid
 graph TD

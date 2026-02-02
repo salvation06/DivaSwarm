@@ -15,7 +15,7 @@ The shift from v5.0 to v5.1.1 has transformed DivaSwarm from a "Prompt Framework
 
 ### 2. State Integrity: The Heartbeat Fail-Safe
 **Systemic Reinforcement.**
-- **The Change**: The "10-turn Hard-Limit" for `task.md` updates.
+- **The Change**: The "10-turn Hard-Limit" for `THE_PULSE.md` updates.
 - **The Impact**: This effectively solves the "System Collapse" pitfall. By making context maintenance a **structural requirement** rather than a guideline, we've guaranteed that the Orchestrator cannot drift away from the user's "North Star" goal.
 
 ### 3. Dialectical Reasoning: Absolute Certainty

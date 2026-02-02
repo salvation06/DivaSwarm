@@ -17,4 +17,4 @@ Even though Copilot is a single-agent interface, you can simulate DivaSwarm's ti
 
 ## Tips for Token Efficiency
 - **Limit Context**: Use Copilot's selection-based chat to provide only the necessary code snippets, adhering to DivaSwarm's "View Chunks" rule.
-- **State Updates**: Manually trigger a state update by asking Copilot to summarize the current task into your `task.md`.
+- **State Updates**: Manually trigger a state update by asking Copilot to summarize the current task into your `THE_PULSE.md`.

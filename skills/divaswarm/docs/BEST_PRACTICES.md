@@ -4,7 +4,7 @@ Maximize your orchestrator's performance and minimize token costs with these bat
 
 ## 1. Master the # STATE Block 🧠
 This is the most critical rule for context maintenance.
-- **Pulse Every 5 Turns**: LLM context drifts. Manually updating the `# STATE` block at the top of `task.md` every few turns "resets" the agent's focus.
+- **Pulse Every 5 Turns**: LLM context drifts. Manually updating the `# STATE` block at the top of `THE_PULSE.md` every few turns "resets" the agent's focus.
 - **Be Prescriptive**: Don't just list what happened. Tell the agent what the **Next Move** must be. "Next Move: Read the error log in `dist/build.log`."
 - **Archive Noise**: Once a task branch is closed, move its sub-tasks to an `# ARCHIVE` section at the bottom. This keeps the active context lean and fast.
 
@@ -25,7 +25,7 @@ Never let an agent "guess" a fix. Force them to follow the sequence:
 ## 4. Token-Saving Maneuvers 💸
 - **Grep Over Find**: Instruct agents to use `grep_search` for specific strings instead of `find_by_name`. It's faster and uses fewer tokens for result parsing.
 - **View Chunks**: Use `view_file` with line ranges (`StartLine`/`EndLine`). Reading a 1,000-line file to fix one line is a token sin.
-- **Compact Tasks**: Keep `task.md` descriptions under 10 words. "Fix syntax" is better than "Investigate why the syntax is broken in the main application file."
+- **Compact Tasks**: Keep `THE_PULSE.md` descriptions under 10 words. "Fix syntax" is better than "Investigate why the syntax is broken in the main application file."
 
 ---
 *Relentless. Precise. Token-Efficient.*

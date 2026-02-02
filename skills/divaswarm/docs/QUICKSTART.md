@@ -67,7 +67,7 @@ ln -s /path/to/DivaSwarm/.agent/skills/DivaSwarm ~/.antigravity/skills/DivaSwarm
 
 ## First Use
 
-### 1. Create a task.md in your project
+### 1. Create a THE_PULSE.md in your project
 ```markdown
 # STATE
 **Objective**: <What you're building>
