@@ -1,5 +1,5 @@
 ---
-name: diva-swarm-ai
+name: divaswarm
 description: Adds a talk-back conversational agent workflow for DivaSwarm AI
 ---
 
