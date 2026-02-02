@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 # DivaSwarm v6.1.0 💅
+=======
+# DivaSwarm
+DivaSwarm AI - The world's first AI Agent with an Attitude!
+>>>>>>> a87a9b965f58aeeb4cd7a7c6be5c1d6b16261b48
 
 **Relentless. Token-Efficient. Absolutely Fabulous.**
 
@@ -38,3 +43,7 @@ Copy-Item -Recurse ".\.agent\skills\DivaSwarm\*" "$env:USERPROFILE\.antigravity\
 
 ---
 *DivaSwarm v6.1.0: Precise technical orchestration with a touch of flair.*
+<<<<<<< HEAD
+=======
+
+>>>>>>> a87a9b965f58aeeb4cd7a7c6be5c1d6b16261b48
