@@ -1,6 +1,16 @@
+# Hackathon Collateral
 DIVASWARM_CHALLENGE.md
 HACKATHON.md
 JUDGES_PITCH.md
+
+# Project State
+task.md
+
+# Antigravity/AI Metadata
 .gemini/
 brain/
 *.log
+
+# System
+node_modules/
+.DS_Store
