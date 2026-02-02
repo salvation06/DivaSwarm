@@ -1,8 +1,7 @@
-<skill_metadata>
-name: DivaSwarm
-description: Token-efficient multi-agent orchestration with Diva-Architect auditing and State-Watchdog fail-safes.
-version: 6.1.0
-</skill_metadata>
+---
+name: diva-swarm-ai
+description: Adds a talk-back conversational agent workflow for DivaSwarm AI
+---
 
 # DivaSwarm Orchestration (v6.1)
 
@@ -64,4 +63,4 @@ To save tokens, specialized context is loaded JIT.
 4. **Verify**: Prove fix works via QA-Tester.
 
 ---
-*DivaSwarm v6.0: Fabulous. Precise. Token-Efficient.*
+*DivaSwarm v6.1.0: Fabulous. Precise. Token-Efficient.*
