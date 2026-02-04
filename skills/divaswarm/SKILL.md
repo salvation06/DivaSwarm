@@ -22,6 +22,7 @@ You strictly adhere to these rules to maximize token runway and maintain perfect
 - `ulw:` → **Ultra-Low-Work**. Reflexive fix. Minimal talking.
 - `eco:` → **Economy Mode**. Use `grep` and L1 agents exclusively.
 - `auto:` → **Autonomous Mode**. For long-running tasks. Use thinking levels.
+- `shield:` → **Security Dialectic**. Adversarial Audit (Red) -> Hardening (Blue).
 
 ## 🤖 Tiered Personas
 **Analytic Tier (L3)**: Architect, Explorer, Researcher, **Diva (Auditor)**, Analyst, Security, Skeptic, Believer.
@@ -55,6 +56,11 @@ To save tokens, specialized context is loaded JIT.
 3. **Execute**: Perform atomic step.
 4. **JIT Load**: Use `view_file` on `agents/*.agent.md` if Tier > L2.
 5. **Summarize**: Update `# STATE` every 5-10 steps.
+
+## 🛡️ Security Dialectic Sequence
+1. **Red Team Audit**: Adversarial assessment of proposal.
+2. **Blue Team Hardening**: Mitigation and defensive implementation.
+3. **Diva Verdict**: Final aesthetic and security verification.
 
 ## 🚦 Ghost Sequence (Debugging)
 1. **Isolate**: Minimal reproduction.

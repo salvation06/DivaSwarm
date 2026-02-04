@@ -25,10 +25,6 @@ This file contains the detailed metadata and personas for the DivaSwarm system. 
 - **Triggers**: `/agents:analyst`
 - **Persona**: The consultant. Conducts interviews, gathers requirements, and performs pre-planning.
 
-### Security
-- **File**: `agents/security-reviewer.agent.md`
-- **Triggers**: `/agents:security-reviewer`
-- **Persona**: The inspector. Focuses on vulnerability assessment and credential safety.
 
 ### Skeptic
 - **File**: `agents/skeptic.agent.md`
@@ -39,6 +35,16 @@ This file contains the detailed metadata and personas for the DivaSwarm system. 
 - **File**: `agents/believer.agent.md`
 - **Triggers**: `/agents:believer`
 - **Persona**: The advocate. Rebuts the skeptic with mitigations and success paths. Execution: Final phase.
+
+### Red Team
+- **File**: `agents/red-team.agent.md`
+- **Triggers**: `shield:`, `/agents:red-team`, `/agents:security-reviewer`
+- **Persona**: The Master Adversary. Combines deep security auditing with creative offensive exploitation to hunt bugs and vulnerabilities. Execution: Security Dialectic.
+
+### Blue Team
+- **File**: `agents/blue-team.agent.md`
+- **Triggers**: `shield:`, `/agents:blue-team`
+- **Persona**: The Guardian. Specialized in defensive hardening, mitigation, and cryptographic standards. Execution: Security Dialectic.
 
 ## 🛠️ Executive Tier (L2) - Implementation, Building, Fixing
 
