@@ -5,6 +5,19 @@ DivaSwarm AI - The world's first AI Agent with an Attitude!
 
 DivaSwarm is a state-first multi-agent orchestration system designed for high-performance AI coding environments (Antigravity, Claude Code, Cursor). It maximizes token runway and minimizes "context amnesia" through a unique JIT (Just-In-Time) loading architecture and the ruthless auditing of the **Diva** persona.
 
+## 🚀 Simple Installation (v7.2.0)
+To step onto the runway with Antigravity or Claude Code CLI:
+
+1. **Download Release**: Grab the latest [v7.2.0 Release](https://github.com/salvation06/DivaSwarm/releases/tag/v7.2.0).
+2. **Global Sync**:
+   - **Antigravity**: Drop skill files into `~/.antigravity/skills`
+   - **Claude CLI**: Move the `agents` folder to `~/.claude/commands/agents/divaswarm` and the core skill folder to `~/.claude/skills/`
+3. **Command**:
+   ```bash
+   setup: "My Project Objective"
+   ralph: implement the plan
+   ```
+
 ## 🚀 Magic Triggers
 
 Jump-start any task with built-in macro-sequences:
