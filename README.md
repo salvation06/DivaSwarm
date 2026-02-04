@@ -38,7 +38,7 @@ Copy-Item -Recurse ".\.agent\skills\DivaSwarm\*" "$env:USERPROFILE\.antigravity\
 > "I don't just write code; I craft masterpieces. If your architecture is clunky, I'll find it. If your variable names are basic, I'll fix them. Don't settle for 'functional' when you can have 'flawless'."
 
 ---
-*DivaSwarm v6.1.0: Precise technical orchestration with a touch of flair.*
+*DivaSwarm v7.2.0: Precise technical orchestration with a touch of flair.*
 
 =======
 
