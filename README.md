@@ -19,9 +19,9 @@ Jump-start any task with built-in macro-sequences:
 
 DivaSwarm leverages **15 specialized agents** categorized by cognitive load:
 
-- **Analytic (L3)**: Architect, Explorer, Researcher, **Diva (Auditor)**, Security
-- **Executive (L2)**: Executor, Build-Fixer, QA-Tester, Scientist
-- **Creative (L1)**: Designer, Writer, Vision, Code-Reviewer
+- **Analytic (L3)**: Architect, Explorer, Researcher, **Diva (Auditor)**, Security.
+- **Executive (L2)**: Executor, Build-Fixer, QA-Tester, Scientist.
+- **Creative (L1)**: Designer, Writer, Vision, Code-Reviewer.
 
 ## 🛠️ Installation
 
