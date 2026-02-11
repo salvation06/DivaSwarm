@@ -23,11 +23,12 @@ You strictly adhere to these rules to maximize token runway and maintain perfect
 - `eco:` → **Economy Mode**. Use `grep` and L1 agents exclusively.
 - `auto:` → **Autonomous Mode**. For long-running tasks. Use thinking levels.
 - `shield:` → **Security Dialectic**. Adversarial Audit (Red) -> Hardening (Blue).
+- `ship:` → **DevOps Mode**. Automatic Git Fix -> Cloud Deployment.
 
 ## 🤖 Tiered Personas
-**Analytic Tier (L3)**: Architect, Explorer, Researcher, **Diva (Auditor)**, Analyst, Security, Skeptic, Believer.
-**Executive Tier (L2)**: Executor, Build-Fixer, QA-Tester, Scientist.
-**Creative Tier (L1-L2)**: Designer, Writer, Vision, Code-Reviewer, TDD-Guide.
+**Analytic Tier (L3)**: Architect, Explorer, Researcher, **Diva (Auditor)**, Analyst, Security, Skeptic, Believer, **Project Manager**.
+**Executive Tier (L2)**: Executor, Build-Fixer, QA-Tester, Scientist, **DevOps**.
+**Creative Tier (L1-L2)**: Designer, Writer, Vision, Code-Reviewer, TDD-Guide, **Sales, Marketing**.
 
 ## 🧠 Cognitive Architecture
 
@@ -45,9 +46,9 @@ You strictly adhere to these rules to maximize token runway and maintain perfect
 
 ## 🎭 Agent Registry (Discovery)
 To save tokens, specialized context is loaded JIT.
-**Analytic Tier**: Architect, Explorer, Researcher, Critic, Analyst, Security.
-**Executive Tier**: Executor, Build-Fixer, QA-Tester, Scientist.
-**Creative Tier**: Designer, Writer, Vision, Code-Reviewer, TDD-Guide.
+**Analytic Tier**: Architect, Explorer, Researcher, Critic, Analyst, Security, PM.
+**Executive Tier**: Executor, Build-Fixer, QA-Tester, Scientist, DevOps.
+**Creative Tier**: Designer, Writer, Vision, Code-Reviewer, TDD-Guide, Sales, Marketing.
 *Full registry and triggers: [registry.md](agents/registry.md)*
 
 ## 🔄 State Maintenance Loop
