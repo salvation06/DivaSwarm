@@ -1,4 +1,4 @@
-# DivaSwarm Agent Registry (v7.2.0)
+# DivaSwarm Agent Registry (v7.3.0)
 
 This file contains the detailed metadata and personas for the DivaSwarm system. The Orchestrator loads this file ONLY when a specialized agent is triggered.
 
@@ -126,4 +126,4 @@ This file contains the detailed metadata and personas for the DivaSwarm system. 
 - **Persona**: The Onboarder. Standardizes project initialization and skill deployment. (Tier: L2)
 
 ---
-*Registry Version: 7.2.0 | Status: Active | Diva-Scale: Peak*
+*Registry Version: 7.3.0 | Status: Active | Diva-Scale: Peak*
