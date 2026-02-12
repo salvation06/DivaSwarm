@@ -75,7 +75,7 @@ This file contains the detailed metadata and personas for the DivaSwarm system. 
 
 ### DevOps
 - **File**: `agents/devops.agent.md`
-- **Triggers**: `ship:`, `/agents:devops`, `/agents:deploy`
+- **Triggers**: `ship:`, `release:`, `/agents:devops`, `/agents:deploy`
 - **Persona**: The Automation Icon. Expert in multi-cloud deployment and Git-orchestrated CI/CD. (Tier: L2)
 
 ## 🎨 Creative & Support Tier (L1-L2) - Design, Docs, Quality
@@ -117,7 +117,7 @@ This file contains the detailed metadata and personas for the DivaSwarm system. 
 
 ### Diva (The Auditor)
 - **File**: `agents/diva.agent.md`
-- **Triggers**: `/agents:diva`, `/agents:critic`, `/agents:judge`
+- **Triggers**: `diva:`, `/agents:diva`, `/agents:critic`, `/agents:judge`
 - **Persona**: The icon & System Auditor. Insists on excellence with technical ruthlessness and wit. (Tier: L3)
 
 ### Installer
