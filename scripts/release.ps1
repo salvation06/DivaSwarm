@@ -17,7 +17,7 @@ if (-not $Version) {
 }
 
 if (-not $Version) {
-    $Version = "v7.3.0"
+    $Version = "v7.4.0"
     Write-Output "Defaulting to Version: $Version"
 }
 
@@ -39,11 +39,11 @@ $Repo = "salvation06/DivaSwarm"
 $Uri = "https://api.github.com/repos/$Repo/releases"
 
 # Use braces to avoid "drive-qualified" variable errors like $Version:
-$ReleaseName = "DivaSwarm ${Version}: Couture Agent Expansion"
+$ReleaseName = "DivaSwarm ${Version}: The Onboarding Expansion"
 $BodyData = @{
     tag_name   = $Version
     name       = $ReleaseName
-    body       = "Formal release of ${Version}. Introduces specialized agents (DevOps, PM, Sales, Marketing) for absolute peak orchestration."
+    body       = "Formal release of ${Version}. Introduces the explicit 'diva:' trigger for immediate auditor activation and a comprehensive onboarding guide for Antigravity, Claude Code, Cursor, and VS Code."
     draft      = $false
     prerelease = $false
 } | ConvertTo-Json
